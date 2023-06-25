@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="hello_world">কি অবস্থা পৃথিবী?</string>
+    <string name="hello_x">কি অবস্থা %s</string>
+</resources>
